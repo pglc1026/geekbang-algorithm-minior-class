@@ -19,7 +19,7 @@ package com.pglc1026.geekbang.minorclass;
  *
  * 示例：
  *
- * MyCircularDeque circularDeque = new MycircularDeque(3); // 设置容量大小为3
+ * MyCircularDeque circularDeque = new MyCircularDeque(3); // 设置容量大小为3
  * circularDeque.insertLast(1);			        // 返回 true
  * circularDeque.insertLast(2);			        // 返回 true
  * circularDeque.insertFront(3);			        // 返回 true
